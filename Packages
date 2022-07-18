@@ -23,3 +23,17 @@ Package: com.subdiox.storeswitcher2
 Filename: ./Tweak/com.subdiox.storeswitcher2_1.0.3_iphoneos-arm.deb
 Description: Storeswitcher2
 MD5Sum: 2f98ea7a4d8d354f5bdcf1b4a762f395
+
+Name: CyDown
+Size: 4361022
+Maintainer: julioverne
+Section: Tweak
+Author: julioverne
+Version: 7.1.2
+HomePage: 
+Architecture: iphoneos-arm
+Package: com.julioverne.cydown
+Filename: ./Tweak/com.julioverne.cydown_7.1.2_iphoneos-arm.deb
+Description: CyDown
+MD5Sum: 2aa7b47978971c7285944d5a1ddea2f1
+
